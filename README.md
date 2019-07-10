@@ -1,2 +1,2 @@
-# my-repo-from-remote-master
-tugas final kakas
+# my-repo-from-remote
+Tugas Besar Kakas Pengembangan Perangkat Lunak
